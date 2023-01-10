@@ -23,7 +23,7 @@ name                     : "Didier Barradas Bautista"
 description              : "My personal website for profesional proupuses and occational opinions pretty mucnh about AI and data science."
 url                      : "https://d-barradas.github.io/"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "https://github.com/D-Barradas" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -41,7 +41,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : "dark" # "light" (default), "dark"
   utterances:
-    theme                : github-dark # "github-light" (default), "github-dark"
+    theme                : #github-dark # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   giscus:
     repo_id              : # Shown during giscus setup at https://giscus.app
@@ -104,27 +104,27 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Didier Barradas Bautista"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I'm a visualization scientist, data scientist, machine learning and artificial intelligence enthusiast. I love to learn and share my knowledge."
+  location         : "KAUST, Saudi Arabia"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:didier.barrradasbautista@kaust.edu.sa"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/dxbarradas"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/D-Barradas"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
